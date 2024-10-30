@@ -1,0 +1,4 @@
+# Created by DVC
+/data.csv
+.dvc/*
+!.dvc/config
